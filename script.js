@@ -70,13 +70,11 @@ class VocabularioIngles {
       <h4 class="card-title"><a>${palabra.description}</a></h4>
       <!-- Text -->
      <form autocomplete="off">
-  <div class="form-group">
-    <label for="formGroupExampleInput">Example label</label>
-    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+  <div class="form-group">   
+    <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Traduccion">
   </div>
-  <div class="form-group">
-    <label for="formGroupExampleInput2">Another label</label>
-    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Another input">
+  <div class="form-group">   
+    <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="pronunciación">
   </div>
 </form>
       <!-- Button -->
