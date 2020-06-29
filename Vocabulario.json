@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "La familia",
+        "description": "Papa",       
+        "image": "Img/Padre.jpg",
+        "Escritura": "father",
+        "Pronunciacion": "fader"
+    },
+    {
+        "id": 2,
+        "name": "La familia",
+        "description": "Madre",       
+        "image": "Img/Mama.jpg",
+        "Escritura": "mother",
+        "Pronunciacion": "moder"
+    },
+    {
+        "id": 3,
+        "name": "La familia",
+        "description": "Hermano",       
+        "image": "Img/Hermano.jpg",
+        "Escritura": "brother",
+        "Pronunciacion": "broder"
+    },
+    {
+        "id": 4,
+        "name": "La familia",
+        "description": "Hermana",       
+        "image": "Img/Hermana.jpg",
+        "Escritura": "sister",
+        "Pronunciacion": "sister"
+    }
+    
+]
